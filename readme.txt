@@ -1,4 +1,4 @@
-=== Plugin Mover @wpplugindevcom ===
+=== Plugin Mover .@wpplugindevcom ===
 Contributors: theode
 Tags: plugin,management,admin
 Requires at least: 3.5
