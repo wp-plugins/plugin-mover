@@ -1,5 +1,6 @@
 === Plugin Mover ===
 Contributors: theode
+Donate link: http://www.wp-plugin-dev.com/donate
 Tags: plugin,management,admin
 Requires at least: 3.5
 Tested up to: 4.0
