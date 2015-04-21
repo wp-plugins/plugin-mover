@@ -3,7 +3,7 @@ Contributors: theode
 Donate link: http://www.wp-plugin-dev.com/donate
 Tags: plugin,management,admin
 Requires at least: 3.5
-Tested up to: 4.0
+Tested up to: 4.2
 Stable: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
